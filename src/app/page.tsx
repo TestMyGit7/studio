@@ -28,7 +28,7 @@ export default function Home() {
     <div className="container mx-auto py-8 px-4 space-y-12">
       <section className="text-center py-12">
         <h1 className="font-headline text-5xl font-bold mb-6 text-primary">
-          Modern Web App Starter
+          Modern Web App Starter-A
         </h1>
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
           Welcome to your Next.js application, scaffolded with modern tools and practices. 
